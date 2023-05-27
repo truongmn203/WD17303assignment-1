@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 2000,
+      "img": "https://picsum.photos/200/200"
+    },
+    {
+      "name": "Bài 2",
+      "price": 20000,
+      "img": "https://picsum.photos/200/200",
+      "id": 2
+    },
+    {
+      "name": "Bài 3",
+      "price": 30000,
+      "img": "https://picsum.photos/200/200",
+      "id": 3
+    },
+    {
+      "name": "Bài 4",
+      "price": 40000,
+      "img": "https://picsum.photos/200/200",
+      "id": 4
+    },
+    {
+      "name": "Bài 5",
+      "price": 50000,
+      "img": "https://picsum.photos/200/200",
+      "id": 5
+    },
+    {
+      "name": "Bài 6",
+      "price": 60000,
+      "img": "https://picsum.photos/200/200",
+      "id": 6
+    },
+    {
+      "name": "Bài 7",
+      "price": 70000,
+      "img": "https://picsum.photos/200/200",
+      "id": 7
+    },
+    {
+      "name": "Bài 8",
+      "price": 80000,
+      "img": "https://picsum.photos/200/200",
+      "id": 8
+    }
+  ]
+}
